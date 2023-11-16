@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="16px" viewBox="0 0 29 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 773</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Header" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="International-Header-Hover" transform="translate(-1100.000000, -91.000000)" stroke="#333333">
+            <g id="Nav" transform="translate(1100.000000, 90.000000)">
+                <g id="Group-773" transform="translate(1.000000, 2.000000)">
+                    <polyline id="Stroke-1371" stroke-width="1.3" points="18.7826087 3.52173913 24.0652174 3.52173913 27 8.2173913 27 11.7391304 24.963087 11.7391304"></polyline>
+                    <polyline id="Stroke-1372" stroke-width="1.3" points="11.7391304 11.7391304 18.7826087 11.7391304 18.7687683 0 12.4777017 0"></polyline>
+                    <polyline id="Stroke-1373" stroke-width="1.3" points="14.0869565 0 6.00329117 0.00215602601 5.86956522 11.7391304 8.08638073 11.7391304"></polyline>
+                    <path d="M24.6521739,12.2652174 C24.6521739,13.2372174 23.8644783,14.026087 22.8913043,14.026087 C21.9193043,14.026087 21.1304348,13.2372174 21.1304348,12.2652174 C21.1304348,11.2920435 21.9193043,10.5043478 22.8913043,10.5043478 C23.8644783,10.5043478 24.6521739,11.2920435 24.6521739,12.2652174 L24.6521739,12.2652174 Z" id="Stroke-1374" stroke-width="1.3"></path>
+                    <path d="M11.7391304,12.2652174 C11.7391304,13.2372174 10.9514348,14.026087 9.97826087,14.026087 C9.00626087,14.026087 8.2173913,13.2372174 8.2173913,12.2652174 C8.2173913,11.2920435 9.00626087,10.5043478 9.97826087,10.5043478 C10.9514348,10.5043478 11.7391304,11.2920435 11.7391304,12.2652174 L11.7391304,12.2652174 Z" id="Stroke-1375" stroke-width="1.3"></path>
+                    <g id="Group-24" transform="translate(0.000000, 5.000000)">
+                        <g id="Group-18">
+                            <path d="M-2.22044605e-16,0.869565217 L3.52173913,0.875434783" id="Stroke-1376"></path>
+                        </g>
+                        <path d="M1,3 L3.34782609,3.00586957" id="Stroke-1377"></path>
+                    </g>
+                    <g id="Group-7" transform="translate(2.370000, 9.000000)">
+                        <g id="Group-28" transform="translate(0.000000, 0.600000)">
+                            <path d="M0.347826087,0.565217391 L0.934782609,0.571086957" id="Stroke-1378"></path>
+                        </g>
+                    </g>
+                    <path d="M27,8.2173913 L18.7826087,8.2173913" id="Stroke-1379" stroke-width="1.3"></path>
+                    <path d="M18.7826087,11.7391304 L21.1304348,11.7391304" id="Stroke-1380" stroke-width="1.3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
